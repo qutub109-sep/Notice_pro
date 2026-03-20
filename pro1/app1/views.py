@@ -16,3 +16,6 @@ def notice(req):
 
 def student(req):
     return render(req,'student.html')
+
+#views.py
+
